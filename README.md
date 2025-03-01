@@ -84,7 +84,7 @@ This project integrates **45+ datasets** covering multiple aspects of nursing ho
 
 ## 🚀 Repository Structure  
 ```plaintext
-📂 data/                   # Raw & processed datasets 
-📂 reports/                # Final presentation & findings
-📄 PROBLEMSTATEMENT.md     # Project/ Business Requirements
+📂 ProblemStatement.pdf    # Project/ Business Requirements 
+📂 Presentation.pdf        # Final presentation & findings
+📄 Datasets.md             # Link to the datasets
 📄 README.md               # Project documentation
