@@ -7,7 +7,6 @@
 This project analyzes the **financial factors influencing investment decisions in U.S. nursing homes**, particularly in the post-COVID-19 era. Using **ARIMA and 2SLS models**, my team examined whether investing in nursing homes is financially viable, based on insights from **14,000+ facilities** across various datasets.  
 
 This work was presented at the **Manhattan College Business Analytics Competition 2024**, where my team reached the **semifinals**, presenting findings to **20+ industry experts** and **academic leaders** from institutions such as **Cornell University and New York University**.  
-
 <br>
 
 ## 🎯 Competition & Recognition  
@@ -18,13 +17,16 @@ This work was presented at the **Manhattan College Business Analytics Competitio
    - **Prof. Jasmine Travers (New York University)**
    - **And many other great experts.**
 
-📊 **Results from this study provide data-driven recommendations for potential investors in the U.S. nursing home industry.**  
+📊 **Results from this study provide data-driven recommendations for potential investors in the U.S. nursing home industry.** 
 
 <br>
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben1203/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachthebusiness@gmail.com)  
+## 📖 Relevant Links:  
+- **Missouri State University Recognition Blog:**  
+[Read about our achievement](https://blogs.missouristate.edu/cob/2024/08/27/bac-2024/) in Missouri State University's official blog!  
+
+- **Competition Website:**  
+Learn more about the **Business Analytics Competition** at Manhattan College [here](https://manhattan.edu/academics/schools-and-departments/school-of-business/business-analytics-competition/index.php).  
 
 <br>
 
@@ -70,15 +72,9 @@ This project integrates **45+ datasets** covering multiple aspects of nursing ho
 
 <br>
 
-## 🎯 Competition & Recognition  
-✅ **Competition**: Manhattan College Business Analytics Competition (2024)  
-✅ **Semifinalist**: Presented findings to **20+ expert judges**, including:  
-   - **Prof. Robert "Tyler" Braun (Cornell University)**  
-   - **Nneka J. Penniston (Senior Manager, Bristol Myers Squibb)**  
-   - **Prof. Jasmine Travers (New York University)**
-   - **And many other great experts.**
-
-📊 **Results from this study provide data-driven recommendations for potential investors in the U.S. nursing home industry.**  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben1203/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachthebusiness@gmail.com)  
 
 <br>
 
