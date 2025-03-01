@@ -82,6 +82,9 @@ This project integrates **45+ datasets** covering multiple aspects of nursing ho
 
 <br>
 
+![BAC@MC_01](https://github.com/user-attachments/assets/8097885c-8a75-467f-b4cd-be883f4fb628)
+![BAC@MC_02](https://github.com/user-attachments/assets/72806d44-9712-445e-af41-5ae519c97eb2)
+
 ## 🚀 Repository Structure  
 ```plaintext
 📂 ProblemStatement.pdf    # Project/ Business Requirements 
