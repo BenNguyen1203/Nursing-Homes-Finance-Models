@@ -31,7 +31,7 @@ The goal is to apply machine learning techniques to real-world healthcare data a
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
+## 📖 Project Structure
 ```
 Nursing-Homes-Finance-Models/
 │── data/                  # Store raw and processed datasets
@@ -75,20 +75,20 @@ Nursing-Homes-Finance-Models/
 │── README.md              # Project documentation
 ```
 
-## Steps Instructions
+## 📖 Steps Instructions
 
 ### **1. Clone the Repository to VS Code**
 ### **2. Get the latest Python Scripts in the Repo**
 ### **3. Run the Python Scripts with provided data (download to local machine)**
 ### **4. Push the changed Python Scripts to the Repo**
 
-## Data Description
+## 📖 Data Description
 - `data/raw/` contains unprocessed datasets.
 - `data/processed/` stores cleaned and transformed data.
 
 <br>
 
-## Usage
+## 📖 Usage
 - Data Preprocessing
 - Feature Engineering
 - Model Training
@@ -96,12 +96,12 @@ Nursing-Homes-Finance-Models/
 
 <br>
 
-## Results and Reports
+## 📖 Results and Reports
 To be uploaded when the project is finished
 
 <br>
 
-## Contributing
+## 📖 Contributing
 - Fork the repository.
 - Create a new branch: `git checkout -b feature-branch-name`
 - Commit your changes: `git commit -m 'Add new feature'`
@@ -110,6 +110,6 @@ To be uploaded when the project is finished
 
 <br>
 
-## License
+## 📖 License
 This project is licensed under the MIT License.
 
