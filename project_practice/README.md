@@ -76,7 +76,6 @@ Nursing-Homes-Finance-Models/
 ```
 
 ## 📖 Steps Instructions
-
 ### **1. Clone the Repository to VS Code**
 ### **2. Get the latest Python Scripts in the Repo**
 ### **3. Run the Python Scripts with provided data (download to local machine)**
@@ -86,20 +85,14 @@ Nursing-Homes-Finance-Models/
 - `data/raw/` contains unprocessed datasets.
 - `data/processed/` stores cleaned and transformed data.
 
-<br>
-
 ## 📖 Usage
 - Data Preprocessing
 - Feature Engineering
 - Model Training
 - Model Evaluation
 
-<br>
-
 ## 📖 Results and Reports
 To be uploaded when the project is finished
-
-<br>
 
 ## 📖 Contributing
 - Fork the repository.
@@ -107,8 +100,6 @@ To be uploaded when the project is finished
 - Commit your changes: `git commit -m 'Add new feature'`
 - Push to the branch: `git push origin feature-branch-name`
 - Open a Pull Request.
-
-<br>
 
 ## 📖 License
 This project is licensed under the MIT License.
