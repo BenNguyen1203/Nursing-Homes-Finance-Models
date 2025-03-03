@@ -21,6 +21,13 @@ The goal is to apply machine learning techniques to real-world healthcare data a
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
 
+## Updates
+- [ ] Release Processed & Cleaned Data
+- [ ] Release Exploratory Data Analysis (EDA) Outputs
+- [ ] Release Feature Engineering
+- [ ] Release Models, Modeling Outputs
+- [ ] Release Final Reports & Visualizations
+
 
 ## Table of Contents
 - [Project Structure](#project-structure)
