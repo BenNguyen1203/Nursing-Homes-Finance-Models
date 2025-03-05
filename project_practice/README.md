@@ -2,12 +2,10 @@
 
 ## 👩‍💻 Overview
 This project analyzes the financial performance of nursing homes using machine learning models. It involves data preprocessing, feature engineering, model training, and evaluation. This is a side folder in my repository where a group of hardworking, teamwork-oriented, and eager-to-learn students collaborate together under my guidance to work on this project. The students involved in this project are:
+<br><br> **NOTE: CURRENTLY HOLD AS THE STUDENTS ARE WORKING TOWARD THEIR FINAL SEMESTERS**
 - Student A, School X [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben1203/) 
-  <br> Data Preprocessing and Feature Engineering (Project contribution sample)
 - Student B, School Y [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben1203/) 
-  <br> Model Training and Evaluation (Project contribution sample)
 - Student C, School Z [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben1203/) 
-  <br> Data Visualization and Reporting (Project contribution sample)
 
 The goal is to apply machine learning techniques to real-world healthcare data and generate actionable insights that can improve the financial sustainability of nursing homes.
 
